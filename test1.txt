@@ -1,2 +1,3 @@
 Hello Git!
 We've alread geting started!
+I love it!
